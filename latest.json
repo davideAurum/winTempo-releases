@@ -1,0 +1,31 @@
+{
+  "format": "winTempo.update-feed",
+  "version": 1,
+  "product": "winTempo",
+  "release": {
+    "version": "0.1.0-alpha.1",
+    "notesUrl": "https://github.com/davideAurum/winTempo-releases/releases/tag/v0.1.0-alpha.1",
+    "setup": {
+      "file": "winTempo-0.1.0-alpha.1-setup.exe",
+      "url": "https://github.com/davideAurum/winTempo-releases/releases/download/v0.1.0-alpha.1/winTempo-0.1.0-alpha.1-setup.exe",
+      "bytes": 2616992,
+      "sha256": "bfd74cd068fbf98f33113231870138471090b0c2c16ddbe37ac6942356029852"
+    },
+    "packages": [
+      {
+        "kind": "framework-dependent",
+        "file": "winTempo-0.1.0-alpha.1-win-x64-framework-dependent.zip",
+        "url": "https://github.com/davideAurum/winTempo-releases/releases/download/v0.1.0-alpha.1/winTempo-0.1.0-alpha.1-win-x64-framework-dependent.zip",
+        "bytes": 731466,
+        "sha256": "ba6335106082b09c5ee94b18791e3821ee2bada572c8653e4aa8d4e87fd80091"
+      },
+      {
+        "kind": "self-contained",
+        "file": "winTempo-0.1.0-alpha.1-win-x64-self-contained.zip",
+        "url": "https://github.com/davideAurum/winTempo-releases/releases/download/v0.1.0-alpha.1/winTempo-0.1.0-alpha.1-win-x64-self-contained.zip",
+        "bytes": 58275929,
+        "sha256": "102b0c503b89160acd2121a70d48f51de0d2dec859194892852c2f29437b5a26"
+      }
+    ]
+  }
+}
